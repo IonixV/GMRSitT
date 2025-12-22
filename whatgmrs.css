@@ -1,0 +1,14 @@
+img {
+    max-height: 250px;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(2, 50, 59);
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+a {
+    color: turquoise
+}
